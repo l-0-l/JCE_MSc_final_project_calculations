@@ -8,7 +8,7 @@ import itertools
 
 np.set_printoptions(linewidth=200)
 
-debug = True
+debug = False
 const = 0.5
 
 
