@@ -9,7 +9,7 @@ import itertools
 np.set_printoptions(linewidth=200)
 
 debug = True
-const = 0.6
+const = 0.5
 
 
 def log(text):
